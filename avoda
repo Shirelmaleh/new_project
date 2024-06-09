@@ -1,0 +1,3 @@
+import panda as pd
+url = "https://github.com/Shirelmaleh/new_project/blob/main/nobel_prize_by_winner.csv"
+df = pd.read_csv(url)
